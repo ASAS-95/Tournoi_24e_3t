@@ -15,3 +15,5 @@ Télécharger et extraire le ZIP. Dans le dépôt GitHub `ASAS-95/Tournoi_24e_3t
 
 ## Précautions
 Exporter une sauvegarde depuis la V2 avant le remplacement. Les données V2 sont reprises dans le même navigateur si elles existent, mais les anciennes phases finales V2 (8 équipes seulement) ne sont pas converties. Les horaires sont prévisionnels : une attente de tirs au but peut retarder les matchs suivants. Les numéros Q sont figés lors de la création des phases finales.
+
+Mise à jour : suppression du libellé V3 sur le tableau de bord, logo PNG et couleur du club dans Paramètres, règlement détaillé et aide JSON/téléphone.
